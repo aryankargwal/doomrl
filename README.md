@@ -5,8 +5,10 @@ As we start on the project there are a few things that we need to install and se
 ### Install Requirements
 ``` pip install -r requirements.txt```
 ### VizDoom Installation
-``` pip install vizdoom```
+``` pip install vizdoom``` <br>
 You can test whether the installation works by testing out the following [Python Notebook](vizdoom_demo.ipynb).
+### Train First Basic Model
+We are going to be wrapping VizDoom in OpenAI GYM and make an GYM Environment
 ## VizDoom
 ## Steps of Development
 - [ ] VizDoom Setup and Trials
